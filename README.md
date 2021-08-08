@@ -1,8 +1,9 @@
 ## MetaMuffin
 
-I am coding apps often with typescript, C++ or flutter/dart.
+I am coding apps mainly with typescript, rust or haskell
 
-### Some Projects that work (kind of)
+### Working projects 
 
-- g-code-compiler
+- keks-meet
 - xautopointer
+- 
