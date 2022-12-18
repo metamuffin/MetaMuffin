@@ -1,9 +1,5 @@
-## MetaMuffin
+## metamuffin
 
-I am coding apps mainly with typescript, rust or haskell
+## Hello! I have moved to [codeberg](https://codeberg.org/metamuffin) since github is non-free.
 
-### Working projects 
-
-- keks-meet
-- xautopointer
-- 
+This account is only here to keep (*really*) old projects.
